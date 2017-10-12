@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="1.7"><source path="D:\android\World\SweetDialog\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.7\assets"/></dataSet><dataSet config="debug"><source path="D:\android\World\SweetDialog\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\android\World\SweetDialog\src\androidTest\assets"/><source path="D:\android\World\SweetDialog\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\World\\SweetDialog\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "D:\\android\\World\\SweetDialog\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\Ant\\ThirdPart\\SweetDialog\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "D:\\android\\Ant\\ThirdPart\\SweetDialog\\src\\main\\res\\layout\\alert_dialog.xml"
+    }
+]
